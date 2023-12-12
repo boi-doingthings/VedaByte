@@ -1,0 +1,83 @@
+---
+title: "Travelling Hacks"
+author: "Boi"
+date: "2023-03-29"
+categories: [travel]
+image: "image.jpg"  
+draft: false
+toc: true
+---  
+
+# Modes of Transport
+A few tricks learnt along the "ways".
+
+## Roadways
+### Private Vehicle  
+
+1.  Always get the tyre pressures checked before embarking any journey. It is crucial for vehicle stability and mileage.
+2.  Invest some money and get a dashcam and mobile stand installed. Dashcam feeds are the best evidence in case of a mishap.
+3.  On a foggy road, always drive behind a bigger vehicle say a truck or bus. But be sure to maintain sufficient distance.
+4.  While driving if a person suddenly comes on the road crossing your path, act as follows:
+    *   For Kids: Try to turn vehicle in the direction opposite of child’s motion.
+    *   For Elderly: Remain in your line and brake, they mostly a backstep
+    *   For Women: Slow down as quickly as you can.
+5.  Never switch ON AC and slow music, while you are the lone driver in a night.
+
+### Public Vehicle
+1.  On a roadways bus, try to get a seat between both axles. Never sit above the back axle.
+2.  Never sit at the absolute front, since buses dont have a strong front structure. 
+
+-----
+
+## Railways
+
+1.  Always do Ticket Booking from IRCTC’s site under your own login credentials.
+2.  When unable to get a ticket but travel is compulsary, use this [site](https://www.irctc.co.in/online-charts/). This gives you station A to station B seat wise availability, so that you can get a part ticket via the Train Ticket Examiner (TTE).
+3.  When travelling alone, prefer to take upper birth if your height is above 5’7” (170CM) else take the Side Upper.
+
+## Airways
+### Domestic
+
+1.  Use [SkyScanner](https://www.skyscanner.co.in/) and [MMT](https://www.makemytrip.com/) to get the quotes. Third Party sites will give you ₹1000 cashback and then charge ₹1100 in convinience fees.
+2.  Vistara > Indigo > Jet Airways > SpiceJet : General Preference but yeah prices matter.
+
+### International
+1. Always carry a copy of your passport (in paper and digital).
+2. Never get currency exchanged at Airports or nearby shops.
+
+# Essentials
+## ID
+1.  A secondary SIM Card.
+2.  Always keep a xerox copy of your Passport and other ID cards.
+3.  A backup Credit Card.
+
+## Foods
+
+1.  Dry Fruits and Chocolates
+2.  Energy Bars and Musli
+3.  Fruits if possible
+4.  Avoid Chips/Biscuits/Maggi Noodles.
+5.  A flask of liqour
+6.  Mini Saches of Milk Powder, Sugar and Coffee/Tea.
+
+Medicine
+--------
+
+1.  Loose Motions
+2.  Headache and Fevers
+3.  Quick Bandages and disinfectant
+4.  Regular Medications (if Any)
+
+Tools
+-----
+
+1.  A [Swiss Knife](https://www.amazon.in/Victorinox-Handyman-Swiss-Knife-1-3773/dp/B0001GS19A) : An invaluable investment.
+2.  Torch
+3.  Pen and Paper
+4.  A piece of Chalk
+
+Clothing
+--------
+
+1.  A hand towel
+2.  An extra pair of socks and innerwear.
