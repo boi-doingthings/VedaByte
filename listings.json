@@ -2,8 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/travel-hacks/index.html",
       "/posts/vietnam-trip/index.html",
-      "/posts/welcome/index.html"
+      "/posts/placed-travelled/index.html"
     ]
   }
 ]

@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>git@github.com-personal:boi-doingthings/VedaByte.git/about.html</loc>
-    <lastmod>2023-12-12T07:28:22.306Z</lastmod>
+    <lastmod>2023-12-12T21:20:42.177Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com-personal:boi-doingthings/VedaByte.git/posts/placed-travelled/index.html</loc>
+    <lastmod>2023-12-12T21:20:41.525Z</lastmod>
   </url>
   <url>
     <loc>git@github.com-personal:boi-doingthings/VedaByte.git/posts/vietnam-trip/index.html</loc>
-    <lastmod>2023-12-12T07:28:21.706Z</lastmod>
+    <lastmod>2023-12-12T21:20:40.770Z</lastmod>
   </url>
   <url>
-    <loc>git@github.com-personal:boi-doingthings/VedaByte.git/posts/welcome/index.html</loc>
-    <lastmod>2023-12-12T07:28:21.382Z</lastmod>
+    <loc>git@github.com-personal:boi-doingthings/VedaByte.git/posts/travel-hacks/index.html</loc>
+    <lastmod>2023-12-12T21:20:41.138Z</lastmod>
   </url>
   <url>
     <loc>git@github.com-personal:boi-doingthings/VedaByte.git/index.html</loc>
-    <lastmod>2023-12-12T07:28:22.045Z</lastmod>
+    <lastmod>2023-12-12T21:20:41.921Z</lastmod>
   </url>
 </urlset>
